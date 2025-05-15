@@ -4,8 +4,8 @@
         "bilibili-live/33",
 	"Honkai/Kiana",
         [
-            "girls-Frontline/ots14_4501/destroy",
-            "girls-Frontline/ots14_4501/normal"
+            "ots14_4501/destroy",
+            "ots14_4501/normal"
         ]
     ],
     "messages": [
