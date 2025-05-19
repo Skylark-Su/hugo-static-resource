@@ -5,39 +5,14 @@
 		"Kiana.2048/texture_00.png"
 	],
 	"motions":{
-		"shake":[
-			{"file":"motions/6.mtn","sound":"sound/kiana_live2d_001.wav","text":155040,"sound_delay":-1}
-		],
-		"flick_head":[
-
-			{"file":"motions/4.mtn","sound":"sound/kiana_live2d_004.wav","text":155043,"sound_delay":-1}
-		],
-		"tap_face":[
-			{"file":"motions/3.mtn","sound":"sound/kiana_live2d_014.wav","text":155053,"sound_delay":-1}
-		],
-		"tap_breast":[
-			{"file":"motions/1.mtn","sound":"sound/kiana_live2d_007.wav","text":155046,"sound_delay":-1}
-		],
-		"tap_belly":[
-			{"file":"motions/2.mtn","sound":"sound/kiana_live2d_002.wav","text":155041,"sound_delay":-1}
-		],
-		"tap_leg":[
-			{"file":"motions/1.mtn","sound":"sound/kiana_live2d_007.wav","text":155046,"sound_delay":-1}
-		],
 		"mail":[
 			{"file":"motions/idle.mtn"}
 		],
 		"morning":[
 			{"file":"motions/idle.mtn"}
-		],
-		"idle":[
-			{"file":"motions/5.mtn","sound":"sound/kiana_live2d_010.wav","text":155049,"sound_delay":-1}
-		],
+		]
 		"activity":[
 			{"file":"motions/idle.mtn"}
-		],
-		"born":[
-			{"file":"motions/3.mtn","sound":"sound/kiana_live2d_014.wav","text":155053,"sound_delay":-1}
 		],
 		"friend":[
 			{"file":"motions/idle.mtn"}
