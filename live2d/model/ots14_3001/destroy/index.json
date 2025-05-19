@@ -2,7 +2,7 @@
 	"version":"Sample 1.0.0",
 	"model":"model.moc",
 	"textures":[
-		"texture/texture_00.png"
+		"model.1024/texture_00.png"
 	],
 	"motions":{
 		"tap_body":[
@@ -19,8 +19,8 @@
 		]
 	},
 	"physics":"physics.json",
-		
-		"hit_areas":[
+	
+	"hit_areas":[
 			{"name":"head","id":"D_REF.HEAD"},
 			{"name":"leg","id":"D_REF.LEG"},
 			{"name":"body","id":"D_REF.BODY"}
