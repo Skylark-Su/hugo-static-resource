@@ -2,7 +2,6 @@
     "models": [
         "bilibili-live/22",
         "bilibili-live/33",
-	"Honkai/Kiana",
         [
             "ots14_4501/destroy",
             "ots14_4501/normal"
@@ -15,8 +14,7 @@
     "messages": [
         "来自 Bilibili Live 的 22 哦 ~",
         "来自 Bilibili Live 的 33 的说",
-        "琪亚娜，出击！",
 	"ots14_4501",
-	"ots14_4501"
+	"ots14_3001"
     ]
 }
