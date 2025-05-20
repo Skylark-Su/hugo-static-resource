@@ -3,12 +3,12 @@
         "bilibili-live/22",
         "bilibili-live/33",
         [
-            "ots14_4501/destroy",
-            "ots14_4501/normal"
+            "ots14_4501/normal",
+            "ots14_4501/destroy"
         ],
         [
-            "ots14_3001/destroy",
-            "ots14_3001/normal"
+            "ots14_3001/normal",
+            "ots14_3001/destroy"
         ]
     ],
     "messages": [
