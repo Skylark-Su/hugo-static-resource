@@ -1,7 +1,12 @@
 {
 	"version":"Sample 1.0.0",
 	"model":"model.moc",
-	"scale": 0.8,
+	"layout":{
+	    "center_x": 0,
+	    "center_y": 0.1,
+	    "width": 0.8,
+	    "height": 0.8
+	},
 	"textures":[
 		"model.1024/texture_00.png"
 	],
